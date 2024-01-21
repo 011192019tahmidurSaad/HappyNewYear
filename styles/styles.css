@@ -311,26 +311,30 @@
 .first-section{
     display:flex;
     position: relative;
+    z-index: 1;
+    margin-top: 50px;
     
     
     
+}
+.bottom-image{
+    position: relative;
+    top: -233px;
 }
 .first-image{
-    max-width: 300px;
     position: relative;
-    bottom: -150px;
+    width: 50%;
 }
 .second-image{
-    
-    padding-top: 225px;
-    padding-left: 50px;
-    
+    position: relative;
+    width: 50%;
 
 }
 .third-image{
     position: relative;
-    padding-left: 350px;
-    padding-top: 150px;
-    width: 150px;
+    width: 20.3%;
+    top: 100px;
+    left: 90px;
+    z-index: 5;
 
 }
