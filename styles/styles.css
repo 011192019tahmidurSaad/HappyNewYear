@@ -269,3 +269,68 @@
     width: 140px;
     height: 140px;
 }
+
+.holidays-sale {
+    text-align: center;
+    padding: 50px;
+}
+
+.holidays-sale>h4 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.holidays-sale>h1 {
+    padding-top: 20px;
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.holidays-sale>h1>span {
+    color: #F00;
+}
+
+.holidays-sale>p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    width: 70%;
+    margin: 30px auto;
+}
+.first-section{
+    display:flex;
+    position: relative;
+    
+    
+    
+}
+.first-image{
+    max-width: 300px;
+    position: relative;
+    bottom: -150px;
+}
+.second-image{
+    
+    padding-top: 225px;
+    padding-left: 50px;
+    
+
+}
+.third-image{
+    position: relative;
+    padding-left: 350px;
+    padding-top: 150px;
+    width: 150px;
+
+}
